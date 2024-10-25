@@ -2,5 +2,5 @@
 #define MAIN_H
 
 int _putchar(char c);
-int _abs(int);
+void jack_bauer(void);
 #endif
